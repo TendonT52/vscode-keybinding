@@ -12,7 +12,7 @@
 - `cmd+w` close tab
 - `cmd+shift+w` close another tab
 - `cmd+e` create temp file
-- `space+h` show hover
+- `space+h` show hover (use arrow for scroll)
 
 ## Navigation
 
