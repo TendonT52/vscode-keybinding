@@ -53,7 +53,7 @@
   - `space+s` quick outline view
   - `space+f` all symbol search
   - `space+p` pin editor
-  - `space+p` unpin editor
+  - `space+P` unpin editor
   - `gc` toggles line comment
   - `gC` toggles block comment
   - `gh` Show hover
