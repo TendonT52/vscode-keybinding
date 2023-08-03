@@ -57,7 +57,6 @@
   - `space+P` unpin editor
   - `gc` toggles line comment
   - `gC` toggles block comment
-  - `gh` Show hover
   - `shift+j` Join lines
   - `space+t` run task
 
