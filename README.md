@@ -32,7 +32,7 @@
 - ### Insert mode
 
   - `shift+tab` accept inline suggestion
-  - `shift+enter` accept code suggestion
+  - `shift+enter` accept code suggestion (trigger suggestion)
   - `w` move the cursor to the beginning of the next word.
   - `b` move the cursor to the beginning of the previous word.
   - `e` move the cursor to the end of the current word.
