@@ -1,5 +1,4 @@
 # My key binding guide 2024
-
 ## General
 
 - `cmd+shift+p` open command palette
